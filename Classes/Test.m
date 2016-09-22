@@ -14,4 +14,8 @@
     NSLog(@"test");
 }
 
+- (void)Test {
+    NSLog(@"Test");
+}
+
 @end
